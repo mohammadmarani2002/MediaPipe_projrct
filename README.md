@@ -54,6 +54,7 @@ python app_count_fingers.py
 
 محمد مرانی
                                                                                                       https://github.com/mohammadmarani2002
+
 📝 نکات
 
 · برای خروج از هر برنامه، کلید q رو بزنید.
